@@ -1,6 +1,6 @@
 
-const filesToCache = ["/app-NKNAJOZC.js","/favicon.ico","/img/demo.gif","/img/icon/arrow.svg","/img/icon/chevron.svg","/img/icon/hamburger.svg","/img/icon/rescript_256x256.png","/img/icon/rescript_512x512.png","/img/rescript.svg","/img/start.png","/","/manifest.json"];
-const currentCacheName = "rescript-react-boilerplate-7fe950a545ec64eb263b09601abfbeb69889ca46a9119830c8441e1eb4adff9e";
+const filesToCache = ["/app-DE3IQBEV.js","/favicon.ico","/img/demo.gif","/img/icon/arrow.svg","/img/icon/chevron.svg","/img/icon/hamburger.svg","/img/icon/rescript_256x256.png","/img/icon/rescript_512x512.png","/img/rescript.svg","/img/start.png","/","/manifest.json"];
+const currentCacheName = "rescript-react-boilerplate-9dd05c82742826a1014bf13ba0c35266d33b83ef6c66750454056126fd55608f";
 
 self.addEventListener("install", (event) => {
   event.waitUntil(

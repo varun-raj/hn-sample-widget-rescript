@@ -1,12 +1,12 @@
 {
-  "name": "rescript-react-boilerplate",
+  "name": "hn-sample-widget-rescript",
   "type": "module",
   "version": "1.0.0",
   "scripts": {
     "build": "node scripts/build.js",
     "start": "node scripts/start.js"
   },
-  "author": "Raphael Rafatpanah",
+  "author": "Varun Raj",
   "license": "MIT",
   "dependencies": {
     "@emotion/css": "*",
